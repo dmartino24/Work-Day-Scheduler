@@ -4,7 +4,7 @@ A daily planner for a work day from 9 AM to 5 PM to organize your work. Color-co
 
 ## Screenshot
 
-![Screenshot Work-Day-Scheduler](assets/img/screenshot.png)
+![Screenshot Work-Day-Scheduler](assets/screenshot.png)
 
 ## Github-Page
 
